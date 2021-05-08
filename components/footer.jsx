@@ -67,7 +67,7 @@ export default function footer() {
               alt="love"
             />
           </i>{" "}
-          By The Shashank
+          By The Shashank🤓
         </div>
       </footer>
     </div>
