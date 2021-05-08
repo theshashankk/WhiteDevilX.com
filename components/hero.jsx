@@ -4,7 +4,7 @@ import config from "../config";
 
 export default function Hero() {
   function AlertIt() {
-    if (window.confirm("open Telegram?"))
+    if (window.confirm("My Telegram 🤓"))
       window.location = `https://t.me/${config.tgUsername}`;
   }
 
