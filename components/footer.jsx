@@ -63,7 +63,7 @@ export default function footer() {
           <i>
             <img
               style={{ width: "30px", height: "30px" }}
-              src="https://img.icons8.com/emoji/48/000000/red-heart.png"
+              src="https://img.icons8.com/plasticine/344/like--v1.png"
               alt="love"
             />
           </i>{" "}
